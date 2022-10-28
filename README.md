@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yannick</h1>
-<p align="center">- 🌱 I’m currently learning **C# and Unity**</p>
-<p align="center" - 📫 How to reach me **yannick.han92600@gmail.com** />
+<p align="center">
+- 🌱 I’m currently learning **C# and Unity**
+- 📫 How to reach me **yannick.han92600@gmail.com**
+</p>
 
 <img align="center" src="https://i.pinimg.com/originals/c4/a1/48/c4a148babf42f40298ca5c9924062ec7.gif" alt="animated"/>
 
